@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6C42\u804C\\\u5927\u4F5C\u4E1A\\Earth-lcr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEE1305-ACD7-4D30-B33A-B0C9F96C40E4}|OpenGLEarth3d\\OpenGLEarth3d.vcxproj|D:\\\u6C42\u804C\\\u5927\u4F5C\u4E1A\\Earth-lcr\\OpenGLEarth3d\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCEE1305-ACD7-4D30-B33A-B0C9F96C40E4}|OpenGLEarth3d\\OpenGLEarth3d.vcxproj|solutionrelative:OpenGLEarth3d\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\\u6C42\u804C\\\u5927\u4F5C\u4E1A\\Earth-lcr\\OpenGLEarth3d\\main.cpp",
+              "RelativeDocumentMoniker": "OpenGLEarth3d\\main.cpp",
+              "ToolTip": "D:\\\u6C42\u804C\\\u5927\u4F5C\u4E1A\\Earth-lcr\\OpenGLEarth3d\\main.cpp",
+              "RelativeToolTip": "OpenGLEarth3d\\main.cpp",
+              "ViewState": "AgIAANoCAAAAAAAAAAAAAN4CAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T11:37:59.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
